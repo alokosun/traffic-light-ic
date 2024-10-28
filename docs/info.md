@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project uses a 10kHz signal, which is slowed down by D-Flip Flops
+I hold the current state in D-Flip FLops and use logic gates to determine the
+next state.
 
 ## How to test
 
-Explain how to use your project
+I connected 3 LEDs to the output to test if the lit up at the right time, and in te right order.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I used 3 LEDs to test if the lights lit up at the right timw, and in the right order.
